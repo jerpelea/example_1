@@ -1,1 +1,1 @@
-# example_1
+this is a simple example repository
